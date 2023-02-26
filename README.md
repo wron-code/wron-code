@@ -1,9 +1,9 @@
-### Olá, Seja bem vindo, sou o Walter ✋
+### Olá, Seja bem vindo ao meu Git, sou o Walter ✋
 <br>
 
 [![Alura](https://img.shields.io/website?label=Meu_Alura&style=for-the-badge&url=https://cursos.alura.com.br/user/wron-code)](https://cursos.alura.com.br/user/wron-code)
 [![Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-rodrigues-0b6656267/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/wron_code)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/login?redirect_to=%2Fchannels%2F%40wron-code)
 
 
 ![WRON GitHub stats](https://github-readme-stats.vercel.app/api?username=wron-code&show_icons=true&theme=dracula)
